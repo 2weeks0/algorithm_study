@@ -4,6 +4,7 @@
 .settings/
  
 # Intellij
+out/
 .idea/
 *.iml
 *.iws
