@@ -4,7 +4,7 @@
 
 - 횟수: 주 3일 (월, 화, 목)
 - 시간: 주 3시간 이상 (19시 ~ 22시)
-- 문제 난이도: 실버 3 ~ 실버 1
+- 문제 난이도: 실버 ~ 골드
 - 문제 수: 3문제 이상
 - 소스와 문제 풀이 md 파일을 함께 업로드
 
@@ -15,8 +15,7 @@
       - 소스 (boj_1000.java)
       - 문제 풀이 (boj_1000.md)  
 - doc
-  - 풀었던 문제를 정리한 문서 (추가 예정)
-  - 다룬 유형을 정리한 문서 (추가 예정)
+  - 문서
 - img
     - 문제 풀이 사용될 이미지
 
@@ -38,3 +37,19 @@
 - 해당 일에 문제를 모두 풀면 master 브랜치에 merge 한다.
     - 단, merge 하기 전, master 브랜치에 rebase 되어 있는지 확인!!
     - 참고: https://techblog.woowahan.com/2553/
+
+## 문제 리스트
+
+|날짜|번호|티어|이름|링크|
+|:---:|:---:|:---:|:---|:---|
+|02 / 10|1260|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>|**DFS와 BFS**|https://www.acmicpc.net/problem/1260|
+| |1991|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**트리 순회**|https://www.acmicpc.net/problem/1991|
+| |14425|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"/>|**문자열 집합**|https://www.acmicpc.net/problem/14425|
+| |10026|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**적록색약**|https://www.acmicpc.net/problem/10026|
+|02 / 08|10819|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>|**차이를 최대로**|https://www.acmicpc.net/problem/10819|
+| |1038|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**감소하는 수**|https://www.acmicpc.net/problem/1038|
+| |1966|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"/>|**프린터 큐**|https://www.acmicpc.net/problem/1966|
+| |14891|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**톱니바퀴**|https://www.acmicpc.net/problem/14891|
+|02 / 07|1051|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"/>|**숫자 정사각형**|https://www.acmicpc.net/problem/1051|
+| |1182|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>|**부분수열의 합**|https://www.acmicpc.net/problem/1182|
+| |1747|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**소수&팰린드롬**|https://www.acmicpc.net/problem/1747|
