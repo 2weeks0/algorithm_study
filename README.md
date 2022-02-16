@@ -57,3 +57,7 @@
 | |14395|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**4연산**|https://www.acmicpc.net/problem/14395|
 | |18112|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**이진수 게임**|https://www.acmicpc.net/problem/18112|
 | |20304|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/16.svg" width="30" height="30"/>|**비밀번호 제작**|https://www.acmicpc.net/problem/20304|
+|02 / 15|1783|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="30" height="30"/>|**병든 나이트**|https://www.acmicpc.net/problem/1783|
+| |2468|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**안전 영역**|https://www.acmicpc.net/problem/2468|
+| |17845|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**수강 과목**|https://www.acmicpc.net/problem/17845|
+| |15903|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>|**카드 합체 놀이**|https://www.acmicpc.net/problem/15903|
