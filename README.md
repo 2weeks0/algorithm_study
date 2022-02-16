@@ -53,3 +53,7 @@
 |02 / 07|1051|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"/>|**숫자 정사각형**|https://www.acmicpc.net/problem/1051|
 | |1182|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>|**부분수열의 합**|https://www.acmicpc.net/problem/1182|
 | |1747|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**소수&팰린드롬**|https://www.acmicpc.net/problem/1747|
+|02 / 14|2644|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>|**촌수계산**|https://www.acmicpc.net/problem/2644|
+| |14395|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**4연산**|https://www.acmicpc.net/problem/14395|
+| |18112|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**이진수 게임**|https://www.acmicpc.net/problem/18112|
+| |20304|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/16.svg" width="30" height="30"/>|**비밀번호 제작**|https://www.acmicpc.net/problem/20304|
