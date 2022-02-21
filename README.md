@@ -61,3 +61,7 @@
 | |2468|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**안전 영역**|https://www.acmicpc.net/problem/2468|
 | |17845|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**수강 과목**|https://www.acmicpc.net/problem/17845|
 | |15903|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>|**카드 합체 놀이**|https://www.acmicpc.net/problem/15903|
+|02 / 17|17825|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="30" height="30"/>|**주사위 윷놀이**|https://www.acmicpc.net/problem/17825|
+| |1963|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**소수 경로**|https://www.acmicpc.net/problem/1963|
+| |6087|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**레이저 통신**|https://www.acmicpc.net/problem/6087|
+| |1799|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg" width="30" height="30"/>|**비숍**|https://www.acmicpc.net/problem/1799|
