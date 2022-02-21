@@ -65,3 +65,7 @@
 | |1963|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**소수 경로**|https://www.acmicpc.net/problem/1963|
 | |6087|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**레이저 통신**|https://www.acmicpc.net/problem/6087|
 | |1799|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg" width="30" height="30"/>|**비숍**|https://www.acmicpc.net/problem/1799|
+|02 / 21|2589|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**보물섬**|https://www.acmicpc.net/problem/2589|
+| |17471|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**게리맨더링**|https://www.acmicpc.net/problem/17471|
+| |1926|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**그림**|https://www.acmicpc.net/problem/1926|
+| |11559|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**Puyo Puyo**|https://www.acmicpc.net/problem/11559|
