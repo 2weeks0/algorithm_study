@@ -69,3 +69,6 @@
 | |17471|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**게리맨더링**|https://www.acmicpc.net/problem/17471|
 | |1926|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**그림**|https://www.acmicpc.net/problem/1926|
 | |11559|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**Puyo Puyo**|https://www.acmicpc.net/problem/11559|
+|02 / 22|3187|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>|**양치기 꿍**|https://www.acmicpc.net/problem/3187|
+| |2780|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**비밀번호**|https://www.acmicpc.net/problem/2780|
+| |1240|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**노드사이의 거리**|https://www.acmicpc.net/problem/1240|
