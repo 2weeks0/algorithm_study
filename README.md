@@ -72,3 +72,6 @@
 |02 / 22|3187|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>|**양치기 꿍**|https://www.acmicpc.net/problem/3187|
 | |2780|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**비밀번호**|https://www.acmicpc.net/problem/2780|
 | |1240|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**노드사이의 거리**|https://www.acmicpc.net/problem/1240|
+|02 / 24|1916|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**최소비용 구하기**|https://www.acmicpc.net/problem/1916|
+| |13549|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**숨바꼭질 3**|https://www.acmicpc.net/problem/13549|
+| |10282|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**해킹**|https://www.acmicpc.net/problem/10282|
