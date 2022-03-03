@@ -42,17 +42,17 @@
 
 |날짜|번호|티어|이름|링크|
 |:---:|:---:|:---:|:---|:---|
-|02 / 10|1260|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>|**DFS와 BFS**|https://www.acmicpc.net/problem/1260|
-| |1991|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**트리 순회**|https://www.acmicpc.net/problem/1991|
-| |14425|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"/>|**문자열 집합**|https://www.acmicpc.net/problem/14425|
-| |10026|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**적록색약**|https://www.acmicpc.net/problem/10026|
+|02 / 07|1051|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"/>|**숫자 정사각형**|https://www.acmicpc.net/problem/1051|
+| |1182|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>|**부분수열의 합**|https://www.acmicpc.net/problem/1182|
+| |1747|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**소수&팰린드롬**|https://www.acmicpc.net/problem/1747|
 |02 / 08|10819|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>|**차이를 최대로**|https://www.acmicpc.net/problem/10819|
 | |1038|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**감소하는 수**|https://www.acmicpc.net/problem/1038|
 | |1966|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"/>|**프린터 큐**|https://www.acmicpc.net/problem/1966|
 | |14891|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**톱니바퀴**|https://www.acmicpc.net/problem/14891|
-|02 / 07|1051|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"/>|**숫자 정사각형**|https://www.acmicpc.net/problem/1051|
-| |1182|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>|**부분수열의 합**|https://www.acmicpc.net/problem/1182|
-| |1747|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**소수&팰린드롬**|https://www.acmicpc.net/problem/1747|
+|02 / 10|1260|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>|**DFS와 BFS**|https://www.acmicpc.net/problem/1260|
+| |1991|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**트리 순회**|https://www.acmicpc.net/problem/1991|
+| |14425|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"/>|**문자열 집합**|https://www.acmicpc.net/problem/14425|
+| |10026|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**적록색약**|https://www.acmicpc.net/problem/10026|
 |02 / 14|2644|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>|**촌수계산**|https://www.acmicpc.net/problem/2644|
 | |14395|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**4연산**|https://www.acmicpc.net/problem/14395|
 | |18112|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**이진수 게임**|https://www.acmicpc.net/problem/18112|
