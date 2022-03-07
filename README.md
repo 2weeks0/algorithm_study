@@ -44,6 +44,9 @@
 |03 / 01|프로그래머스 92334|lv.1|**신고 결과 받기**|https://programmers.co.kr/learn/courses/30/lessons/92334|
 | |프로그래머스 92335|lv.2|**k진수에서 소수 개수 구하기**|https://programmers.co.kr/learn/courses/30/lessons/92335|
 | |프로그래머스 92341|lv.2|**주차 요금 계산**|https://programmers.co.kr/learn/courses/30/lessons/92341|
+|03 / 03|1446|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**지름길**|https://www.acmicpc.net/problem/1446|
+| |16931|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>|**겉넓이 구하기**|https://www.acmicpc.net/problem/16931|
+| |1405|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**미친 로봇**|https://www.acmicpc.net/problem/1405|
 
 ## 2월 문제 리스트 
 
