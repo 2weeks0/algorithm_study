@@ -62,7 +62,9 @@
 |03 / 18|14888|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**연산자 끼워넣기**|https://www.acmicpc.net/problem/14888|
 | |14666|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**소가 길을 건너간 이유 6**|https://www.acmicpc.net/problem/14666|
 | |1520|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**내리막 길**|https://www.acmicpc.net/problem/1520|
-
+|03 / 22|16235|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**나무 재테크**|https://www.acmicpc.net/problem/16235|
+| |12026|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**BOJ 거리**|https://www.acmicpc.net/problem/12026|
+| |1744|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**내리막 길**|https://www.acmicpc.net/problem/1744|
 ## 2월 문제 리스트 
 
 |날짜|번호|티어|이름|링크|
