@@ -65,6 +65,10 @@
 |03 / 22|16235|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**나무 재테크**|https://www.acmicpc.net/problem/16235|
 | |12026|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**BOJ 거리**|https://www.acmicpc.net/problem/12026|
 | |1744|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**내리막 길**|https://www.acmicpc.net/problem/1744|
+|03 / 24|21610|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**마법사 상어와 비바라기**|https://www.acmicpc.net/problem/21610|
+| |9205|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**맥주 마시면서 걸어가기**|https://www.acmicpc.net/problem/9205|
+| |10836|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**여왕벌**|https://www.acmicpc.net/problem/10836|
+
 ## 2월 문제 리스트 
 
 |날짜|번호|티어|이름|링크|
