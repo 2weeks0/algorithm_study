@@ -41,9 +41,9 @@
 ## 3월 문제 리스트
 |날짜|번호|티어|이름|링크|
 |:---:|:---:|:---:|:---|:---|
-|03 / 01|프로그래머스 92334|lv.1|**신고 결과 받기**|https://programmers.co.kr/learn/courses/30/lessons/92334|
-| |프로그래머스 92335|lv.2|**k진수에서 소수 개수 구하기**|https://programmers.co.kr/learn/courses/30/lessons/92335|
-| |프로그래머스 92341|lv.2|**주차 요금 계산**|https://programmers.co.kr/learn/courses/30/lessons/92341|
+|03 / 01|92334|lv.1|**신고 결과 받기**|https://programmers.co.kr/learn/courses/30/lessons/92334|
+| |92335|lv.2|**k진수에서 소수 개수 구하기**|https://programmers.co.kr/learn/courses/30/lessons/92335|
+| |92341|lv.2|**주차 요금 계산**|https://programmers.co.kr/learn/courses/30/lessons/92341|
 |03 / 03|1446|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**지름길**|https://www.acmicpc.net/problem/1446|
 | |16931|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>|**겉넓이 구하기**|https://www.acmicpc.net/problem/16931|
 | |1405|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**미친 로봇**|https://www.acmicpc.net/problem/1405|
@@ -68,6 +68,9 @@
 |03 / 24|21610|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**마법사 상어와 비바라기**|https://www.acmicpc.net/problem/21610|
 | |9205|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**맥주 마시면서 걸어가기**|https://www.acmicpc.net/problem/9205|
 | |10836|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**여왕벌**|https://www.acmicpc.net/problem/10836|
+|03 / 28|2661|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**좋은수열**|https://www.acmicpc.net/problem/2661|
+| |9466|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="30" height="30"/>|**텀 프로젝트**|https://www.acmicpc.net/problem/9466|
+| |2591|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**숫자카드**|https://www.acmicpc.net/problem/2591|
 
 ## 2월 문제 리스트 
 
