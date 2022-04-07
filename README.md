@@ -50,6 +50,9 @@
 |04 / 05|17841|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="30" height="30"/>|**UNIST는 무엇의 약자일까?**|https://www.acmicpc.net/problem/17841|
 | |12867|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**N차원 여행**|https://www.acmicpc.net/problem/12867|
 | |2023|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**신기한 소수**|https://www.acmicpc.net/problem/2023|
+|04 / 07|2688|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**줄어들지 않아**|https://www.acmicpc.net/problem/2688|
+| |2138|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**전구와 스위치**|https://www.acmicpc.net/problem/2138|
+| |14499|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**주사위 굴리기**|https://www.acmicpc.net/problem/14499|
     
 ## 3월 문제 리스트
 |날짜|번호|티어|이름|링크|
