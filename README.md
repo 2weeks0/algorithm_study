@@ -62,7 +62,10 @@
 |04 / 18|1695|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**팰린드롬 만들기**|https://www.acmicpc.net/problem/1695|
 | |2467|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**용액**|https://www.acmicpc.net/problem/2467|
 | |2234|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**성곽**|https://www.acmicpc.net/problem/2234|
-    
+|04 / 19|2583|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**영역 구하기**|https://www.acmicpc.net/problem/2583|
+| |5972|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**택배 배송**|https://www.acmicpc.net/problem/5972|
+| |1599|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**민식어**|https://www.acmicpc.net/problem/1599|
+
 ## 3월 문제 리스트
 |날짜|번호|티어|이름|링크|
 |:---:|:---:|:---:|:---|:---|
