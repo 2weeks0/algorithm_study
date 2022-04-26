@@ -71,6 +71,9 @@
 |04 / 25|3107|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**IPv6**|https://www.acmicpc.net/problem/3107|
 | |1911|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**흙길 보수하기**|https://www.acmicpc.net/problem/1911|
 | |16954|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**움직이는 미로 탈출**|https://www.acmicpc.net/problem/16954|
+|04 / 26|9177|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**단어 섞기**|https://www.acmicpc.net/problem/9177|
+| |2240|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**자두나무**|https://www.acmicpc.net/problem/2240|
+| |7490|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**0 만들기**|https://www.acmicpc.net/problem/7490|
 
 ## 3월 문제 리스트
 |날짜|번호|티어|이름|링크|
