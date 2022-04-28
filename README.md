@@ -74,6 +74,9 @@
 |04 / 26|9177|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**단어 섞기**|https://www.acmicpc.net/problem/9177|
 | |2240|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**자두나무**|https://www.acmicpc.net/problem/2240|
 | |7490|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**0 만들기**|https://www.acmicpc.net/problem/7490|
+|04 / 28|10775|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="30" height="30"/>|**공항**|https://www.acmicpc.net/problem/10775|
+| |3584|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**가장 가까운 공통 조상**|https://www.acmicpc.net/problem/3584|
+| |2638|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**치즈**|https://www.acmicpc.net/problem/2638|
 
 ## 3월 문제 리스트
 |날짜|번호|티어|이름|링크|
