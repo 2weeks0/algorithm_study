@@ -53,6 +53,10 @@
 |05 / 10|13019|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**A를 B로**|https://www.acmicpc.net/problem/13019|
 | |20923|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**숫자 할리갈리 게임**|https://www.acmicpc.net/problem/20923|
 | |1501|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**영어 읽기**|https://www.acmicpc.net/problem/1501|
+|05 / 12|1189|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**컴백홈**|https://www.acmicpc.net/problem/1189|
+| |8972|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**미친 아두이노**|https://www.acmicpc.net/problem/8972|
+| |19597|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**문자열 뒤집기**|https://www.acmicpc.net/problem/19597|
+
     
 ## 4월 문제 리스트
 |날짜|번호|티어|이름|링크|
