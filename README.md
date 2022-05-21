@@ -59,6 +59,9 @@
 |05 / 17|1052|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**물병**|https://www.acmicpc.net/problem/1052|
 | |1987|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**뒤집기**|https://www.acmicpc.net/problem/1987|
 | |1022|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**소용돌이 예쁘게 출력하기**|https://www.acmicpc.net/problem/1022|
+|05 / 19|1953|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**팀배분**|https://www.acmicpc.net/problem/1953|
+| |15927|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**회문은 회문아니야!!**|https://www.acmicpc.net/problem/15927|
+| |18119|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**단어 암기**|https://www.acmicpc.net/problem/18119|
 
     
 ## 4월 문제 리스트
