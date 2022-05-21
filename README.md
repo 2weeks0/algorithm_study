@@ -56,6 +56,9 @@
 |05 / 12|1189|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**컴백홈**|https://www.acmicpc.net/problem/1189|
 | |8972|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**미친 아두이노**|https://www.acmicpc.net/problem/8972|
 | |19597|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**문자열 뒤집기**|https://www.acmicpc.net/problem/19597|
+|05 / 17|1052|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/>|**물병**|https://www.acmicpc.net/problem/1052|
+| |1987|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**뒤집기**|https://www.acmicpc.net/problem/1987|
+| |1022|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**소용돌이 예쁘게 출력하기**|https://www.acmicpc.net/problem/1022|
 
     
 ## 4월 문제 리스트
