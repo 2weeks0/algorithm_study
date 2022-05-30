@@ -65,7 +65,9 @@
 | 05 / 26 | 2666  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **벽장문의 이동**       | https://www.acmicpc.net/problem/2666  |
 |         | 16432 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **떡장수와 호랑이**      | https://www.acmicpc.net/problem/16432 |
 |         | 16938 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **캠프 준비**         | https://www.acmicpc.net/problem/16938 |
-
+| 05 / 30 | 1041  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **주사위**           | https://www.acmicpc.net/problem/1041  |
+|         | 1043  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/> | **거짓말**           | https://www.acmicpc.net/problem/1043  |
+|         | 11578 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **팀원 모집**         | https://www.acmicpc.net/problem/11578 |
     
 ## 4월 문제 리스트
 |날짜|번호|티어|이름|링크|
