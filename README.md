@@ -68,7 +68,10 @@
 | 05 / 30 | 1041  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **주사위**           | https://www.acmicpc.net/problem/1041  |
 |         | 1043  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/> | **거짓말**           | https://www.acmicpc.net/problem/1043  |
 |         | 11578 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **팀원 모집**         | https://www.acmicpc.net/problem/11578 |
-    
+| 05 / 31 | 22859 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="30" height="30"/> | **HTML 파싱**       | https://www.acmicpc.net/problem/22859 |
+|         | 1253  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/> | **좋다**            | https://www.acmicpc.net/problem/1253  |
+|         | 25186 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="30" height="30"/>  | **INFP 두람**       | https://www.acmicpc.net/problem/25186 |
+
 ## 4월 문제 리스트
 |날짜|번호|티어|이름|링크|
 |:---:|:---:|:---:|:---|:---|
@@ -106,8 +109,8 @@
 | |2240|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**자두나무**|https://www.acmicpc.net/problem/2240|
 | |7490|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/>|**0 만들기**|https://www.acmicpc.net/problem/7490|
 |04 / 28|10775|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="30" height="30"/>|**공항**|https://www.acmicpc.net/problem/10775|
-| |3584|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**가장 가까운 공통 조상**|https://www.acmicpc.net/problem/3584|
-| |2638|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**치즈**|https://www.acmicpc.net/problem/2638|
+| |3584|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**가장 가까운 공통 조상**| https://www.acmicpc.net/problem/3584|
+| |2638|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/>|**치즈**| https://www.acmicpc.net/problem/2638|
 
 ## 3월 문제 리스트
 |날짜|번호|티어|이름|링크|
