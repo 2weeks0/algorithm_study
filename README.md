@@ -37,6 +37,13 @@
 - 해당 일에 문제를 모두 풀면 master 브랜치에 merge 한다.
     - 단, merge 하기 전, master 브랜치에 rebase 되어 있는지 확인!!
     - 참고: https://techblog.woowahan.com/2553/
+
+## 6월 문제 리스트
+|   날짜    |  번호   |                                          티어                                           | 이름        | 링크                                    |
+|:-------:|:-----:|:-------------------------------------------------------------------------------------:|:----------|:--------------------------------------|
+| 06 / 02 | 2151  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/> | **거울 설치** | https://www.acmicpc.net/problem/2151  |
+|         | 10986 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="30" height="30"/> | **나머지 합** | https://www.acmicpc.net/problem/10986 |
+|         | 2170  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **선 긋기**  | https://www.acmicpc.net/problem/2170  |
     
 ## 5월 문제 리스트
 |   날짜    |  번호   |                                          티어                                           | 이름                | 링크                                    |
