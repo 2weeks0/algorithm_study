@@ -47,6 +47,9 @@
 | 06 / 06 | 16724 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="30" height="30"/> | **피리 부는 사나이** | https://www.acmicpc.net/problem/16724 |
 |         | 1092  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **배**         | https://www.acmicpc.net/problem/1092  |
 |         | 15565 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/> | **귀여운 라이언**   | https://www.acmicpc.net/problem/15565 |
+| 06 / 07 | 1437  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/> | **수 분해**      | https://www.acmicpc.net/problem/1437  |
+|         | 1593  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **문자 해독**     | https://www.acmicpc.net/problem/1593  |
+|         | 1640  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/> | **동전 뒤집기**    | https://www.acmicpc.net/problem/1640  |
 
 ## 5월 문제 리스트
 |   날짜    |  번호   |                                          티어                                           | 이름                | 링크                                    |
