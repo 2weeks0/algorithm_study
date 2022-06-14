@@ -39,12 +39,15 @@
     - 참고: https://techblog.woowahan.com/2553/
 
 ## 6월 문제 리스트
-|   날짜    |  번호   |                                          티어                                           | 이름        | 링크                                    |
-|:-------:|:-----:|:-------------------------------------------------------------------------------------:|:----------|:--------------------------------------|
-| 06 / 02 | 2151  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/> | **거울 설치** | https://www.acmicpc.net/problem/2151  |
-|         | 10986 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="30" height="30"/> | **나머지 합** | https://www.acmicpc.net/problem/10986 |
-|         | 2170  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **선 긋기**  | https://www.acmicpc.net/problem/2170  |
-    
+|   날짜    |  번호   |                                          티어                                           | 이름            | 링크                                    |
+|:-------:|:-----:|:-------------------------------------------------------------------------------------:|:--------------|:--------------------------------------|
+| 06 / 02 | 2151  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/> | **거울 설치**     | https://www.acmicpc.net/problem/2151  |
+|         | 10986 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="30" height="30"/> | **나머지 합**     | https://www.acmicpc.net/problem/10986 |
+|         | 2170  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **선 긋기**      | https://www.acmicpc.net/problem/2170  |
+| 06 / 06 | 16724 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="30" height="30"/> | **피리 부는 사나이** | https://www.acmicpc.net/problem/16724 |
+|         | 1092  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **배**         | https://www.acmicpc.net/problem/1092  |
+|         | 15565 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/> | **귀여운 라이언**   | https://www.acmicpc.net/problem/15565 |
+
 ## 5월 문제 리스트
 |   날짜    |  번호   |                                          티어                                           | 이름                | 링크                                    |
 |:-------:|:-----:|:-------------------------------------------------------------------------------------:|:------------------|:--------------------------------------|
