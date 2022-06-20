@@ -53,6 +53,10 @@
 | 06 / 16 | 5376  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/> | **소수를 분수로**   | https://www.acmicpc.net/problem/5376  |
 |         | 16500 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **문자열 판별**    | https://www.acmicpc.net/problem/16500 |
 |         | 7682  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **틱택토**       | https://www.acmicpc.net/problem/7682  |
+| 06 / 20 | 18430 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **무기 공학**     | https://www.acmicpc.net/problem/18430 |
+|         | 3967  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **매직 스타**     | https://www.acmicpc.net/problem/3967  |
+|         | 9241  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/> | **바이러스 복제**   | https://www.acmicpc.net/problem/9241  |
+
 
 ## 5월 문제 리스트
 |   날짜    |  번호   |                                          티어                                           | 이름                | 링크                                    |
