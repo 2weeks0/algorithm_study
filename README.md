@@ -65,6 +65,9 @@
 | 06 / 27 | 1484  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **다이어트**      | https://www.acmicpc.net/problem/1484  |
 |         | 2253  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/> | **점프**        | https://www.acmicpc.net/problem/2253  |
 |         | 14369 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **전화번호 수수께끼 (Small)**   | https://www.acmicpc.net/problem/14369 |
+| 06 / 28 | 1105  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/> | **팥**      | https://www.acmicpc.net/problem/1105  |
+|         | 1117  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **색칠 1**        | https://www.acmicpc.net/problem/1117  |
+|         | 2118 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **두 개의 탑**   | https://www.acmicpc.net/problem/2118 |
 
 
 ## 5월 문제 리스트
