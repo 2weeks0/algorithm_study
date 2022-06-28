@@ -62,6 +62,9 @@
 | 06 / 23 | 19542 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/> | **전단지 돌리기**   | https://www.acmicpc.net/problem/19542 |
 |         | 3151  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **합이 0**      | https://www.acmicpc.net/problem/3151  |
 |         | 22115 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **창영이와 커피**   | https://www.acmicpc.net/problem/22115 |
+| 06 / 27 | 1484  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **다이어트**      | https://www.acmicpc.net/problem/1484  |
+|         | 2253  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/> | **점프**        | https://www.acmicpc.net/problem/2253  |
+|         | 14369 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **전화번호 수수께끼 (Small)**   | https://www.acmicpc.net/problem/14369 |
 
 
 ## 5월 문제 리스트
