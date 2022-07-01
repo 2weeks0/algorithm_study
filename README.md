@@ -38,6 +38,14 @@
     - 단, merge 하기 전, master 브랜치에 rebase 되어 있는지 확인!!
     - 참고: https://techblog.woowahan.com/2553/
 
+## 7월 문제 리스트
+|   날짜    |  번호   |                                          티어                                           | 이름            | 링크                                    |
+|:-------:|:-----:|:-------------------------------------------------------------------------------------:|:--------------|:--------------------------------------|
+| 07 / 01 | 10453  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30" height="30"/> | **문자열 변환**     | https://www.acmicpc.net/problem/10453  |
+|         | 2668 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"/> | **숫자고르기**     | https://www.acmicpc.net/problem/2668 |
+|         | 1563  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30" height="30"/> | **개근상**      | https://www.acmicpc.net/problem/1563  |
+
+
 ## 6월 문제 리스트
 |   날짜    |  번호   |                                          티어                                           | 이름            | 링크                                    |
 |:-------:|:-----:|:-------------------------------------------------------------------------------------:|:--------------|:--------------------------------------|
